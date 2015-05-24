@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+C:\Users\Waltson\Documents\GitHub\Projeto-de-Software\Projeto-de-Software\codigo\.metadata\.plugins\org.eclipse.jdt.core
+1284074322.index
+2237786245.index
+1418211973.index

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DoadoPE</string>
+    <string name="labelCompartilhar">Compartilhar</string>
+    <string name="labelBuscar">Buscar</string>
+    <string name="textviewTipodeSangue">Tipo de Sanguineo:</string>
+    <string name="textviewQuantSangue">Quantidade de Sangue:</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="arrayTipoSanguineo">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+</resources>
